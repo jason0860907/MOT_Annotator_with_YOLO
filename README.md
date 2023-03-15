@@ -51,6 +51,6 @@
 - `Mouse Middle Click` (click two points) to get the bounding box
 
 <aside>
-💡 The same people in different camera view should be **'annotate with the same ID'**
+💡 The same people in different camera view should be **`annotate with the same ID`**
 
 </aside>
