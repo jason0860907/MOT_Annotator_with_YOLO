@@ -9,9 +9,7 @@
 2. Replace the file **detect.py**
     - File modified by YeePon
         
-        [detect.py](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b8da165-5c09-4a4c-845a-48bcefb9dbca/detect.py)
-        
-3. Download the testing model ****(put the file in the yolov7-pose directory)
+3. Download the testing model (put the file in the yolov7-pose directory)
     - [**yolov7-w6-pose.pt**](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt)
 4. Run the yolov7-pose and get the bounding box
     - Remember change the location where files save
