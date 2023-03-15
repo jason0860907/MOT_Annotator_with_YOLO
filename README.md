@@ -28,9 +28,9 @@
     
     - List Directory Tree
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef4956a9-0fed-4cf3-97d3-a7b0cd4adb82/Untitled.png)
+        ![My Image](src/Folder.png)
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2aa7d4a4-ba91-439c-a7ca-507790e7ad65/Untitled.png)
+        !![My Image](src/List_Directory_Tree.png)
         
 3. Run Python scripts from the command line (Terminal)
     
