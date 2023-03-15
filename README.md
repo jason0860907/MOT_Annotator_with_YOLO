@@ -48,5 +48,5 @@
 - `Mouse Left Click` to map the YOLO detection bounding box
 - `Mouse Middle Click` (click two points) to get the bounding box
 
-💡 The same people in different camera view should be **annotate with the same ID**
+💡 The same person in different camera views should be **annotate with the same ID**
 
