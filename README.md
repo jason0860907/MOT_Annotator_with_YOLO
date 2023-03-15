@@ -16,7 +16,7 @@
 4. Run the yolov7-pose and get the bounding box
     - Remember change the location where files save
         
-        ```python
+        ```bash
         python detect.py --weights yolov7-w6-pose.pt --kpt-label --hide-labels --hide-conf --source **/your_path_to_video/HDR80_A_Live_20230211_160252_000.mov** --exist-ok --name yolo_det --project **/your_path_to_annotator/MOT16_Annotator** --save-txt --nosave
         ```
         
@@ -36,7 +36,7 @@
         
 3. Run Python scripts from the command line (Terminal)
     
-    ```python
+    ```bash
     python MOT-Annotation.py -l ./video/HDR80_A_Live_20230211_160252_000.mov
     ```
     
