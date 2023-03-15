@@ -15,7 +15,7 @@
     - Remember change the location where files save
         
         ```bash
-        python detect.py --weights yolov7-w6-pose.pt --kpt-label --hide-labels --hide-conf --source **/your_path_to_video/HDR80_A_Live_20230211_160252_000.mov** --exist-ok --name yolo_det --project **/your_path_to_annotator/MOT16_Annotator** --save-txt --nosave
+        python detect.py --weights yolov7-w6-pose.pt --kpt-label --hide-labels --hide-conf --source /your_path_to_video/HDR80_A_Live_20230211_160252_000.mov --exist-ok --name yolo_det --project /your_path_to_annotator/MOT_Annotator_with_YOLO --save-txt --nosave
         ```
         
 
@@ -23,7 +23,7 @@
 
 1. Clone the repository MOT_Annotator
     - Github Link: https://github.com/jason0860907/MOT_Annotator_with_YOLO
-2. Check the **txt file** and **video** at the correct position
+2. Check the **txt files** and **videos** are in the correct location
     
     
     - List Directory Tree
