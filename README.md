@@ -37,7 +37,7 @@
 3. Run Python scripts from the command line (Terminal)
     
     ```python
-    python MOT-Annotation.py -l **./video/HDR80_A_Live_20230211_160252_000.mov**
+    python MOT-Annotation.py -l ./video/HDR80_A_Live_20230211_160252_000.mov
     ```
     
     - Modified from https://github.com/khalidw/MOT16_Annotator
@@ -51,6 +51,6 @@
 - `Mouse Middle Click` (click two points) to get the bounding box
 
 <aside>
-💡 The same people in different camera view should be **annotate with the same ID**
+💡 The same people in different camera view should be **'annotate with the same ID'**
 
 </aside>
