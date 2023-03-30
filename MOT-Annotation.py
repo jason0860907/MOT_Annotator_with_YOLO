@@ -135,7 +135,7 @@ with open('{}/{}.txt'.format(new_path, video_name),'a') as out_file:
       width = xmax-xmin
       height = ymax-ymin
 
-      write_line = '%d,%d,%d,%d,%d,%d'%(frame_number,object_id,xmin,ymin,width,height)
+      write_line = '%d,%d,%d,%d,%d,%d,1,1,1'%(frame_number,object_id,xmin,ymin,width,height)
       print(write_line,file=out_file)
       print(write_line)
 
