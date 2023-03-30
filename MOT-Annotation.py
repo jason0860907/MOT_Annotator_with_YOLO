@@ -157,7 +157,7 @@ with open('{}/{}.txt'.format(new_path, video_name),'a') as out_file:
         if check_point_in_bbx([x, y], [x1, y1, x2, y2]):
           width = x2 - x1
           height = y2 - y1
-          write_line = '%d,%d,%d,%d,%d,%d'%(frame_number,object_id,x1,y1,width,height)
+          write_line = '%d,%d,%d,%d,%d,%d,1,1,1'%(frame_number,object_id,x1,y1,width,height)
           print(write_line,file=out_file)
           print(write_line)
       click_list2 = []
